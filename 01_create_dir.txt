@@ -1,0 +1,8 @@
+Create project directory structure
+bash
+
+mkdir -p /home/claude/nyc-etl-pipeline/{extractors,transformers,loaders,dags,tests,data/raw,data/processed,docs,config}
+echo "Directory structure created"
+Output
+
+Directory structure created
